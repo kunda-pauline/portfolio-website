@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+
+}
+.lef{
+    background-color:aliceblue;
+    width:200px;
+    height:500px%;
+}
+.righ{
+    background-color:white;
+    width: 50%;
+    height:100%;
+}
+h1{
+    color: aliceblue;
+}
